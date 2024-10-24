@@ -12,6 +12,7 @@ Each repository corresponds to a specific topic in the class. The repositories a
 - **Branches are divided by semesters**: For example, `2024/25/1` refers to the first semester of the `2024/25` academic year.
 - The **main branch mirrors the latest semester**, providing a base for updating and iterating on materials.
 - **Previous semester branches are locked** and remain read-only for reference, ensuring historical documentation of course material.
+- Each semester has a separate `Practice` and `Lecture` directory.
 
 ## Working with Course Material
 
