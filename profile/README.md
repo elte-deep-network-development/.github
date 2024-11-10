@@ -79,3 +79,22 @@ This organizational structure ensures that all course material is easily accessi
 If any issues arise with GitHub, Git, or the Organization, contact me at [imremolnar@inf.elte.hu](mailto:imremolnar@inf.elte.hu).
 
 Happy teaching! 🎓
+
+# TODO
+
+Lecture:
+- Introduction
+
+Practice:
+- Object Detection 2 - Multi-Object Detection
+- Depth Estimation + Generative Modeling
+
+Exam:
+- Make exam "beugró", create written exam that evaluates knowledge of theory
+
+Extra:
+- Split Depth Est + Gen Modeling
+
+
+
+
