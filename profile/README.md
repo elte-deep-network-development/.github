@@ -64,6 +64,10 @@ At the end of the semester, once the course material has been finalized, follow 
 
 This process ensures that your revisions and updates to the course material are reflected in the main branch and documented for future use.
 
+## Slides
+
+Each slides follows a rigid Slide Master format to ensure standardization. For modifying the slides, please use one of the predefined layouts!
+
 ## Responsibilities
 
 As a teacher or a demonstrator, you are responsible for maintaining and iterating on the course content. This includes:
@@ -80,7 +84,7 @@ If any issues arise with GitHub, Git, or the Organization, contact me at [imremo
 
 Happy teaching! 🎓
 
-# TODO
+# TODO 2025
 
 Lecture:
 - Introduction
