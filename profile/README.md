@@ -84,22 +84,12 @@ If any issues arise with GitHub, Git, or the Organization, contact me at [imremo
 
 Happy teaching! 🎓
 
-# TODO 2024/25/2
+# TODO 2025/26/1
 
 Lecture:
-- Introduction: remove Bruno related content (Imre)
-- Linear Regression: add autograd and manual grad computation (Imre)
-- Object Detection: migrating from 2 lectures to 1, presentations need to be merged (Imre)
-- Deep Learning Tools for CV: moved to the end of the course, needs splitting into two, possible deepseek inclusion (Tamás)
+- Add Transformers part 2 (DeepSeek)
+- Extend Deep Learning Tools part 1 and 2
   
 Practice:
-- Object Detection 2 - Multi-Object Detection (needs fixing, bugs are presen) (TBD)
-- All Practice Notebooks: Add proper presentation elements (Tamás)
-- All Practices: Remove GDrive Dependency (Tamás)
-- Transformers part 1/2: Needs a new practice notebook (Zoltán)
-- Deep Learning Tools: 2 new notebooks are needed (Tamás 1, TBD 1)
-
-Exam and Assignments:
-- Create the two homeworks (without oral defense) (Tamás 1, Imre 1)
-- Create the 4 quizzes on Canvas (Tamás 2, Imre 2)
-- Create the written part of the final exam (Tamás, Imre)
+- Transformers part 2: NMT with Transformers, GPT2 - Andrej Karpathy
+- Deep Learning Tools part 2: Neural Image Rendering, Generative Modeling
