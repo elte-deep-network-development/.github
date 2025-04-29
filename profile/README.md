@@ -88,7 +88,7 @@ Happy teaching! 🎓
 
 Lecture:
 - Add Transformers part 2 (DeepSeek)
-- Add BEiT, Swin2, LeVit to vision transformers
+- Add BEiT, Swin2, LeVit to vision transformers, add DINO
   
 Practice:
 - Transformers part 2: NMT with Transformers, GPT2 - Andrej Karpathy
