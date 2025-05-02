@@ -93,3 +93,7 @@ Lecture:
 Practice:
 - Transformers part 2: NMT with Transformers, GPT2 - Andrej Karpathy
 - Deep Learning Tools part 2: Neural Image Rendering, Generative Modeling
+
+Additional:
+- .ipynb similarity checker code
+- Homework redistribution code
