@@ -86,6 +86,9 @@ Happy teaching! 🎓
 
 # TODO 2025/26/1
 
+Note Grant:
+- Create small document outlining the curriculum and what can be found where
+
 Lecture:
 - Add Transformers part 2 (DeepSeek)
 - Add BEiT, Swin2, LeVit to vision transformers, add DINO
@@ -93,6 +96,9 @@ Lecture:
 Practice:
 - Transformers part 2: NMT with Transformers, GPT2 - Andrej Karpathy
 - Deep Learning Tools part 2: Neural Image Rendering, Generative Modeling
+
+Exam:
+- Add question bank for question categories (then randomly create exams)
 
 Additional:
 - .ipynb similarity checker code
