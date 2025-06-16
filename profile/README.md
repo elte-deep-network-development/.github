@@ -84,6 +84,10 @@ If any issues arise with GitHub, Git, or the Organization, contact me at [imremo
 
 Happy teaching! 🎓
 
+## Embedding Images
+
+If you would like to embed images in your notebooks, please use the following Google Drive directory: [Link](https://drive.google.com/drive/folders/1g7NdB1_wudK222NdX4N4welojm8QSn3a?usp=sharing)
+
 # TODO 2025/26/1
 
 Lecture:
