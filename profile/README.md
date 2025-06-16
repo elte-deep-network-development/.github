@@ -95,6 +95,7 @@ Lecture:
 - Add BEiT, Swin2, LeVit to vision transformers, add DINO
   
 Practice:
+- Finish Neural Machine Translation
 - Transformers part 2: NMT with Transformers, GPT2 - Andrej Karpathy (maybe)
 - Deep Learning Tools part 2: Neural Image Rendering, Generative Modeling
 
