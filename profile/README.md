@@ -68,6 +68,10 @@ This process ensures that your revisions and updates to the course material are 
 
 Each slides follows a rigid Slide Master format to ensure standardization. For modifying the slides, please use one of the predefined layouts!
 
+## Embedding Images Into Notebooks / Including Your Own Dataset
+
+If you would like to embed images or use your own data in your notebooks, please use the following Google Drive directory: [Link](https://drive.google.com/drive/folders/1g7NdB1_wudK222NdX4N4welojm8QSn3a?usp=sharing)
+
 ## Responsibilities
 
 As a teacher or a demonstrator, you are responsible for maintaining and iterating on the course content. This includes:
@@ -83,10 +87,6 @@ This organizational structure ensures that all course material is easily accessi
 If any issues arise with GitHub, Git, or the Organization, contact me at [imremolnar@inf.elte.hu](mailto:imremolnar@inf.elte.hu).
 
 Happy teaching! 🎓
-
-## Embedding Images
-
-If you would like to embed images in your notebooks, please use the following Google Drive directory: [Link](https://drive.google.com/drive/folders/1g7NdB1_wudK222NdX4N4welojm8QSn3a?usp=sharing)
 
 # TODO 2025/26/1
 
