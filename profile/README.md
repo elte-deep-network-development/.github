@@ -89,6 +89,20 @@ If any issues arise with GitHub, Git, or the Organization, contact me at [imremo
 Happy teaching! 🎓
 
 # TODO 2025/26/1
+Méltányosság:
+- Hogyan kezeljük a betegségeket?
+- Hogyan kezeljük a hivatalos távollétet?
+
+Quiz:
+- no more
+- 2 midterms instead 35%-35%
+- assignment defense 30%
+
+Homeworks:
+- 20%-20%
+
+Assignment:
+- 60%
 
 Lecture:
 - Add Transformers part 2 (DeepSeek)
