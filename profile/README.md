@@ -100,6 +100,7 @@ Quiz:
 
 Homeworks:
 - 20%-20%
+- Homework 1: Lab color space + MSE, predict ab channels only. Cross-entropy with quantized colors. Tanh activation or just using logits with MSELoss
 
 Assignment:
 - 60%
